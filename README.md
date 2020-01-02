@@ -2,5 +2,5 @@
 
 赞仓
 
-![./zancang-logo.png]{:style="width:120px;"}
+![zancang-logo](./zancang-logo.png){:style="width:120px;"}
 
